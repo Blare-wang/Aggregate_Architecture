@@ -10,7 +10,7 @@
         <version>2.3.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.blare</groupId>
+    <groupId>com.itblare</groupId>
     <artifactId>aggregate</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
