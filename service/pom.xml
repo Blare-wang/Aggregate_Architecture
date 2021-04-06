@@ -14,7 +14,7 @@
     <description>聚合项目管理服务公共服务模块(Aggregate project management service public service module)</description>
     <modules>
         <module>certification-center</module>
-        <module>webdemo</module>
+        <module>demo</module>
     </modules>
     <properties>
         <druid.version>1.2.1</druid.version>
